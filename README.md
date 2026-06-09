@@ -1,7 +1,5 @@
 # Quantum Computing with Qiskit
 
-## Overview
-
 This repository explores the fundamental concepts of **Quantum Computing** through practical implementations using **Qiskit**, IBM's open-source quantum computing framework.
 
 The project covers core quantum phenomena, quantum algorithms, quantum state representations, and advanced topics such as **density matrices** and **partial trace operations**, providing both theoretical understanding and hands-on examples.
